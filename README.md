@@ -1,4 +1,4 @@
-Loomer
+Loomer UI
 
 A full-stack social platform built to explore how a familiar social experience can be engineered into a maintainable, scalable, production-ready application.
 
